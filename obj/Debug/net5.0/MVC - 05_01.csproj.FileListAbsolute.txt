@@ -1,0 +1,16 @@
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.exe
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.deps.json
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.runtimeconfig.json
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.runtimeconfig.dev.json
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.dll
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\ref\MVC - 05_01.dll
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\bin\Debug\net5.0\MVC - 05_01.pdb
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.csprojAssemblyReference.cache
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.AssemblyInfoInputs.cache
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.AssemblyInfo.cs
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.dll
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\ref\MVC - 05_01.dll
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.pdb
+C:\Users\Gabi\Desktop\SENAI\MVC - 05_01\obj\Debug\net5.0\MVC - 05_01.genruntimeconfig.cache

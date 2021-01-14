@@ -12,6 +12,12 @@ namespace MVC___05_01.Controllers
 
             List<Produto> todos =  produto.Ler();
             produtoView.ListarTodos(todos);
-         }
+        }
+
+        public void Cadastrar(){
+
+            produto.Inserir(produtoView.CadastrarProduto());
+
+        }
     }
 }
